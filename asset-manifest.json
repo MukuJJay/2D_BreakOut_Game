@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/2D_BreakOut_Game/static/css/main.533143ca.css",
+    "main.js": "/2D_BreakOut_Game/static/js/main.53865530.js",
+    "static/media/newLevel.wav": "/2D_BreakOut_Game/static/media/newLevel.5d9f1949dbf915bbd8b7.wav",
+    "static/media/bg2.png": "/2D_BreakOut_Game/static/media/bg2.fc5973db2960feef035e.png",
+    "static/media/newLife.wav": "/2D_BreakOut_Game/static/media/newLife.a1d4f81c30ff0827db52.wav",
+    "static/media/pcSound.wav": "/2D_BreakOut_Game/static/media/pcSound.5fe53d33de719789b530.wav",
+    "static/media/bcSound.wav": "/2D_BreakOut_Game/static/media/bcSound.f10ecf0686551e36536c.wav",
+    "static/media/wcSound.wav": "/2D_BreakOut_Game/static/media/wcSound.494e7b968c6e2d95dd6f.wav",
+    "index.html": "/2D_BreakOut_Game/index.html",
+    "main.533143ca.css.map": "/2D_BreakOut_Game/static/css/main.533143ca.css.map",
+    "main.53865530.js.map": "/2D_BreakOut_Game/static/js/main.53865530.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.533143ca.css",
+    "static/js/main.53865530.js"
+  ]
+}
